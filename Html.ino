@@ -17,7 +17,7 @@ String Html_Config() {
   "<form action=\"\" method=\"post\">"
   "<table border=\"0\" style=\"width: 100vw;\">"
   "  <tr>"
-  "   <td colspan=\"2\"><strong>Slicer</strong><hr/></td>"
+  "   <td colspan=\"2\"><strong>Slider</strong><hr/></td>"
   " </tr>"
   " <tr>"
   "   <td>Distance</td>"
